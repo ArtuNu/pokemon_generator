@@ -43,7 +43,7 @@ const a16 = "https://media.tenor.com/9y3ql3fTKMMAAAAC/pidgey-cute.gif";
 const a17 = "https://media.tenor.com/bHL9O-KFgoQAAAAC/pidgeotto-pokemon.gif";
 const a18 = "https://media.tenor.com/TS12692KzXcAAAAC/pidgeot-pigeon.gif";
 const a19 = "https://media.tenor.com/JI2kGjoQ3_MAAAAC/pokemon-rattata.gif";
-const a20 = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTLcSLWKDTzgUrYNI2HGlgLpF2XlDdAEkDBml39Sd3ErbJchVhakf4UaGZSDJQkvHm2ZU&usqp=CAU";
+const a20 = "https://pa1.narvii.com/6159/10fc0e6ab91d851fa9f223f78139c6a280a9679b_hq.gif";
 const a21 = "http://24.media.tumblr.com/9701e3cf6a58fce229a5136353279cb7/tumblr_mn61rvvdqV1rjp53to1_400.gif";
 const a22 = "https://i.gifer.com/origin/aa/aa569228c585a59f0acd355ee4a3fb3d.gif";
 const a23 = "https://media.tenor.com/Oz7Uz-ZMiToAAAAC/ekans-pokemon.gif";
