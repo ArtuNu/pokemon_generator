@@ -72,7 +72,7 @@
   width: 100%;
   min-height: 20px;
   display: flex;
-  align-self: flex-end;
+  align-items: flex-end;
 }
 .pokemon-info div {
   min-width: 170px;
